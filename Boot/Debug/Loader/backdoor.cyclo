@@ -1,0 +1,5 @@
+backdoor.c:85:6:BackDoorInit	1
+backdoor.c:124:6:BackDoorCheck	4
+backdoor.c:182:6:BackDoorSetExtension	1
+backdoor.c:195:12:BackDoorGetExtension	1
+backdoor.c:210:6:BackDoorRestartTimer	2

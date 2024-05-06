@@ -1,0 +1,2 @@
+../Loader/ARMCM4_STM32F4/GCC/cpu_comp.c:40:6:CpuIrqDisable	4	static,ignoring_inline_asm
+../Loader/ARMCM4_STM32F4/GCC/cpu_comp.c:51:6:CpuIrqEnable	4	static,ignoring_inline_asm

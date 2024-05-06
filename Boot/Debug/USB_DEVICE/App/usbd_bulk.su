@@ -1,0 +1,9 @@
+../USB_DEVICE/App/usbd_bulk.c:266:17:USBD_Bulk_Init	24	static
+../USB_DEVICE/App/usbd_bulk.c:299:17:USBD_Bulk_DeInit	24	static
+../USB_DEVICE/App/usbd_bulk.c:320:17:USBD_Bulk_Setup	24	static
+../USB_DEVICE/App/usbd_bulk.c:392:17:USBD_Bulk_DataIn	16	static
+../USB_DEVICE/App/usbd_bulk.c:406:17:USBD_Bulk_DataOut	16	static
+../USB_DEVICE/App/usbd_bulk.c:419:16:USBD_Bulk_SOF	16	static
+../USB_DEVICE/App/usbd_bulk.c:437:18:USBD_Bulk_GetFSCfgDesc	16	static
+../USB_DEVICE/App/usbd_bulk.c:449:11:USBD_Bulk_GetDeviceQualifierDescriptor	16	static
+../USB_DEVICE/App/usbd_bulk.c:459:11:USBD_Bulk_GetRxBufferPtr	4	static

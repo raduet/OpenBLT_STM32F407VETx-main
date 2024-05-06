@@ -1,0 +1,2 @@
+boot.c:40:6:BootInit	1
+boot.c:72:6:BootTask	1

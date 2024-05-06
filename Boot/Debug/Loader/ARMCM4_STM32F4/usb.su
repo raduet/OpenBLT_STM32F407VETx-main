@@ -1,0 +1,13 @@
+../Loader/ARMCM4_STM32F4/usb.c:124:6:UsbInit	8	static
+../Loader/ARMCM4_STM32F4/usb.c:161:6:UsbFree	8	static
+../Loader/ARMCM4_STM32F4/usb.c:179:6:UsbTransmitPacket	24	static
+../Loader/ARMCM4_STM32F4/usb.c:210:10:UsbReceivePacket	16	static
+../Loader/ARMCM4_STM32F4/usb.c:268:17:UsbReceiveByte	24	static
+../Loader/ARMCM4_STM32F4/usb.c:284:17:UsbTransmitByte	24	static
+../Loader/ARMCM4_STM32F4/usb.c:300:6:UsbTransmitPipeBulkIN	16	static
+../Loader/ARMCM4_STM32F4/usb.c:341:6:UsbReceivePipeBulkOUT	32	static
+../Loader/ARMCM4_STM32F4/usb.c:380:13:UsbFifoMgrInit	24	static
+../Loader/ARMCM4_STM32F4/usb.c:411:18:UsbFifoMgrCreate	24	static
+../Loader/ARMCM4_STM32F4/usb.c:445:17:UsbFifoMgrWrite	16	static
+../Loader/ARMCM4_STM32F4/usb.c:479:17:UsbFifoMgrRead	16	static
+../Loader/ARMCM4_STM32F4/usb.c:511:18:UsbFifoMgrScan	16	static

@@ -1,0 +1,11 @@
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:410:22:LL_USART_Enable	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:424:22:LL_USART_Disable	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:1792:26:LL_USART_IsActiveFlag_RXNE	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:1814:26:LL_USART_IsActiveFlag_TXE	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:2403:25:LL_USART_ReceiveData8	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:2426:22:LL_USART_TransmitData8	16	static
+../Loader/ARMCM4_STM32F4/rs232.c:87:6:Rs232Init	40	static
+../Loader/ARMCM4_STM32F4/rs232.c:126:6:Rs232TransmitPacket	24	static
+../Loader/ARMCM4_STM32F4/rs232.c:154:10:Rs232ReceivePacket	16	static
+../Loader/ARMCM4_STM32F4/rs232.c:223:17:Rs232ReceiveByte	16	static
+../Loader/ARMCM4_STM32F4/rs232.c:243:13:Rs232TransmitByte	24	static

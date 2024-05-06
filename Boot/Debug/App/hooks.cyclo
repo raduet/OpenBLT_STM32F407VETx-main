@@ -1,0 +1,8 @@
+stm32f4xx_ll_gpio.h:800:26:LL_GPIO_IsInputPinSet	1
+stm32f4xx_ll_gpio.h:881:22:LL_GPIO_SetOutputPin	1
+stm32f4xx_ll_gpio.h:910:22:LL_GPIO_ResetOutputPin	1
+stm32f4xx_ll_bus.h:409:22:LL_AHB1_GRP1_EnableClock	1
+hooks.c:82:10:CpuUserProgramStartHook	2
+hooks.c:263:6:UsbConnectHook	3
+hooks.c:306:6:UsbEnterLowPowerModeHook	1
+hooks.c:318:6:UsbLeaveLowPowerModeHook	1

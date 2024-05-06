@@ -1,0 +1,4 @@
+cpu.c:58:6:CpuInit	1
+cpu.c:75:6:CpuStartUserProgram	3
+cpu.c:150:6:CpuMemCopy	2
+cpu.c:177:6:CpuMemSet	2

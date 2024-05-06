@@ -1,0 +1,7 @@
+nvm.c:58:6:NvmInit	1
+nvm.c:79:6:NvmReinit	1
+nvm.c:101:10:NvmWrite	1
+nvm.c:142:10:NvmErase	1
+nvm.c:182:10:NvmVerifyChecksum	1
+nvm.c:200:10:NvmGetUserProgBaseAddress	1
+nvm.c:215:10:NvmDone	2

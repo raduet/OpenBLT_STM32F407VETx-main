@@ -1,0 +1,2 @@
+cop.c:49:6:CopInit	1
+cop.c:62:6:CopService	1

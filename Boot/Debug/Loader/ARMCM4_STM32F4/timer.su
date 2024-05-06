@@ -1,0 +1,5 @@
+../Loader/ARMCM4_STM32F4/timer.c:50:6:TimerInit	8	static
+../Loader/ARMCM4_STM32F4/timer.c:72:6:TimerReset	4	static
+../Loader/ARMCM4_STM32F4/timer.c:86:6:TimerUpdate	4	static
+../Loader/ARMCM4_STM32F4/timer.c:102:12:TimerGet	8	static
+../Loader/ARMCM4_STM32F4/timer.c:122:10:HAL_GetTick	8	static

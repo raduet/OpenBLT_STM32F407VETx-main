@@ -1,0 +1,2 @@
+../Loader/cop.c:49:6:CopInit	4	static
+../Loader/cop.c:62:6:CopService	4	static

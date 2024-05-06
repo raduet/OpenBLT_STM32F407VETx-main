@@ -1,0 +1,9 @@
+usbd_bulk.c:266:17:USBD_Bulk_Init	1
+usbd_bulk.c:299:17:USBD_Bulk_DeInit	1
+usbd_bulk.c:320:17:USBD_Bulk_Setup	11
+usbd_bulk.c:392:17:USBD_Bulk_DataIn	1
+usbd_bulk.c:406:17:USBD_Bulk_DataOut	1
+usbd_bulk.c:419:16:USBD_Bulk_SOF	2
+usbd_bulk.c:437:18:USBD_Bulk_GetFSCfgDesc	1
+usbd_bulk.c:449:11:USBD_Bulk_GetDeviceQualifierDescriptor	1
+usbd_bulk.c:459:11:USBD_Bulk_GetRxBufferPtr	1

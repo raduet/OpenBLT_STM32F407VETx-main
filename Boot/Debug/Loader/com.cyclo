@@ -1,0 +1,7 @@
+com.c:61:6:ComInit	1
+com.c:100:6:ComTask	3
+com.c:150:6:ComFree	1
+com.c:166:6:ComTransmitPacket	3
+com.c:212:12:ComGetActiveInterfaceMaxRxLen	5
+com.c:250:12:ComGetActiveInterfaceMaxTxLen	5
+com.c:287:10:ComIsConnected	2

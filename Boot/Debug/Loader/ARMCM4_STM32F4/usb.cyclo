@@ -1,0 +1,13 @@
+usb.c:124:6:UsbInit	4
+usb.c:161:6:UsbFree	1
+usb.c:179:6:UsbTransmitPacket	5
+usb.c:210:10:UsbReceivePacket	7
+usb.c:268:17:UsbReceiveByte	1
+usb.c:284:17:UsbTransmitByte	1
+usb.c:300:6:UsbTransmitPipeBulkIN	5
+usb.c:341:6:UsbReceivePipeBulkOUT	3
+usb.c:380:13:UsbFifoMgrInit	2
+usb.c:411:18:UsbFifoMgrCreate	2
+usb.c:445:17:UsbFifoMgrWrite	4
+usb.c:479:17:UsbFifoMgrRead	4
+usb.c:511:18:UsbFifoMgrScan	2

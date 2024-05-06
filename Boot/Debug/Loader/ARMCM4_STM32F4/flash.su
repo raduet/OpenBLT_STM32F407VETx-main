@@ -1,0 +1,15 @@
+../Loader/ARMCM4_STM32F4/flash.c:227:6:FlashInit	4	static
+../Loader/ARMCM4_STM32F4/flash.c:240:6:FlashReinit	4	static
+../Loader/ARMCM4_STM32F4/flash.c:258:10:FlashWrite	32	static
+../Loader/ARMCM4_STM32F4/flash.c:296:10:FlashErase	24	static
+../Loader/ARMCM4_STM32F4/flash.c:329:10:FlashWriteChecksum	16	static
+../Loader/ARMCM4_STM32F4/flash.c:398:10:FlashVerifyChecksum	16	static
+../Loader/ARMCM4_STM32F4/flash.c:428:10:FlashDone	8	static
+../Loader/ARMCM4_STM32F4/flash.c:458:10:FlashGetUserProgBaseAddress	4	static
+../Loader/ARMCM4_STM32F4/flash.c:472:17:FlashInitBlock	16	static
+../Loader/ARMCM4_STM32F4/flash.c:501:25:FlashSwitchBlock	16	static
+../Loader/ARMCM4_STM32F4/flash.c:553:17:FlashAddToBlock	40	static
+../Loader/ARMCM4_STM32F4/flash.c:624:17:FlashWriteBlock	40	static
+../Loader/ARMCM4_STM32F4/flash.c:687:17:FlashEmptyCheckSector	40	static
+../Loader/ARMCM4_STM32F4/flash.c:751:17:FlashEraseSectors	48	static
+../Loader/ARMCM4_STM32F4/flash.c:816:18:FlashGetSector	24	static

@@ -1,0 +1,5 @@
+timer.c:50:6:TimerInit	1
+timer.c:72:6:TimerReset	1
+timer.c:86:6:TimerUpdate	2
+timer.c:102:12:TimerGet	1
+timer.c:122:10:HAL_GetTick	1

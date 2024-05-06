@@ -1,0 +1,15 @@
+flash.c:227:6:FlashInit	1
+flash.c:240:6:FlashReinit	1
+flash.c:258:10:FlashWrite	5
+flash.c:296:10:FlashErase	4
+flash.c:329:10:FlashWriteChecksum	2
+flash.c:398:10:FlashVerifyChecksum	2
+flash.c:428:10:FlashDone	5
+flash.c:458:10:FlashGetUserProgBaseAddress	1
+flash.c:472:17:FlashInitBlock	3
+flash.c:501:25:FlashSwitchBlock	5
+flash.c:553:17:FlashAddToBlock	8
+flash.c:624:17:FlashWriteBlock	4
+flash.c:687:17:FlashEmptyCheckSector	8
+flash.c:751:17:FlashEraseSectors	8
+flash.c:816:18:FlashGetSector	4
