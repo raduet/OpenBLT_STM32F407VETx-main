@@ -1,7 +1,4 @@
 ../Drivers/CMSIS/Include/core_cm4.h:1939:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
-../App/boot.c:52:6:BootComInit	8	static
-../App/boot.c:69:6:BootComCheckActivationRequest	8	static
+../App/boot.c:52:6:BootComInit	4	static
+../App/boot.c:69:6:BootComCheckActivationRequest	4	static
 ../App/boot.c:85:6:BootActivate	8	static
-../App/boot.c:124:13:BootComRs232Init	8	static
-../App/boot.c:146:13:BootComRs232CheckActivationRequest	8	static
-../App/boot.c:215:22:Rs232ReceiveByte	24	static
